@@ -12,10 +12,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.0",
+    "bcryptjs": "^2.4.3",
     "bootstrap": "^4.5.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.9",
     "next": "9.5.5",
+    "next-iron-session": "^4.1.10",
+    "nextjs-progressbar": "0.0.7",
+    "nprogress": "^0.2.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "reactstrap": "^8.6.0"
+    "react-slick": "^0.27.13",
+    "reactstrap": "^8.6.0",
+    "slick-carousel": "^1.8.1",
+    "swr": "^0.3.8"
   }
 }
